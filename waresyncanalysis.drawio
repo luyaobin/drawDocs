@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-29T03:39:30.116Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="wc73Pt8Trng5TOHSurz5" version="13.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-29T03:40:18.723Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="eDvnC5g1aR3spcpVoTl9" version="13.3.5" type="github">
   <diagram id="I0tTbIVz2taehSvC3SyJ" name="Page-1">
     <mxGraphModel dx="1372" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,35 +61,36 @@
         <mxCell id="eCIu5ebLq8_7URlHtB98-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eCIu5ebLq8_7URlHtB98-19" target="eCIu5ebLq8_7URlHtB98-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="180" y="585" />
               <mxPoint x="220" y="585" />
-              <mxPoint x="220" y="700" />
-              <mxPoint x="140" y="700" />
+              <mxPoint x="220" y="710" />
+              <mxPoint x="140" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="eCIu5ebLq8_7URlHtB98-19" value="需更新" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="560" width="80" height="50" as="geometry" />
+          <mxGeometry x="100" y="560" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eCIu5ebLq8_7URlHtB98-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eCIu5ebLq8_7URlHtB98-19" target="eCIu5ebLq8_7URlHtB98-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eCIu5ebLq8_7URlHtB98-26" value="文件管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eCIu5ebLq8_7URlHtB98-27" value="文件下载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="600" width="120" height="20" as="geometry" />
+          <mxGeometry x="240" y="640" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="eCIu5ebLq8_7URlHtB98-28" value="文件校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="620" width="120" height="20" as="geometry" />
+          <mxGeometry x="240" y="660" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="eCIu5ebLq8_7URlHtB98-29" value="配置更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="640" width="120" height="20" as="geometry" />
+          <mxGeometry x="240" y="680" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="eCIu5ebLq8_7URlHtB98-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eCIu5ebLq8_7URlHtB98-31" target="eCIu5ebLq8_7URlHtB98-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eCIu5ebLq8_7URlHtB98-31" value="更新完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eCIu5ebLq8_7URlHtB98-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="eCIu5ebLq8_7URlHtB98-34" target="eCIu5ebLq8_7URlHtB98-15">
           <mxGeometry relative="1" as="geometry">
