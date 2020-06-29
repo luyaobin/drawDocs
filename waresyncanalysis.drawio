@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2020-06-29T03:23:55.482Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" version="13.3.5" etag="hrupYd6P2yKL9wPFpRnB" type="github"><diagram id="I0tTbIVz2taehSvC3SyJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-29T03:25:15.880Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="fggqhIZ3nJnAuyK4BjZP" version="13.3.5" type="github">
+  <diagram id="I0tTbIVz2taehSvC3SyJ" name="Page-1">
+    <mxGraphModel dx="1372" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eCIu5ebLq8_7URlHtB98-1" value="消息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eCIu5ebLq8_7URlHtB98-2" value="send" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eCIu5ebLq8_7URlHtB98-3" value="recv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
